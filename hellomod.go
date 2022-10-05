@@ -5,6 +5,6 @@ import "fmt"
 func Sayhello() {
 	fmt.Println("Hello")
 }
-func Sayhello() {
+func Salute() {
 	fmt.Println("Salute")
 }
